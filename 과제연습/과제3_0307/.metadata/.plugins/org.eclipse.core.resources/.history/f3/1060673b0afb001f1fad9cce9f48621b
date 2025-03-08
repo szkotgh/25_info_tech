@@ -1,0 +1,14 @@
+import form.a로그인;
+import jdbc.db;
+
+public class main {
+	public static void main(String[] args) {
+		try {
+			db.DBS();
+			new a로그인();
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+}

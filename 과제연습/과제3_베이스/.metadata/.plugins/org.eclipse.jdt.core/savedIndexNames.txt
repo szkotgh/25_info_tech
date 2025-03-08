@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\4070ti\Desktop\정보기술\과제연습\과제3_베이스\.metadata\.plugins\org.eclipse.jdt.core
+4022483057.index
+789344348.index
+449384428.index

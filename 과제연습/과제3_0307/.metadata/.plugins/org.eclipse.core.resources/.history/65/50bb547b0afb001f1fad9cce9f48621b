@@ -1,0 +1,14 @@
+import jdbc.db;
+
+public class main {
+
+	public static void main(String[] args) {
+		try {
+			db.DBS();
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+
+}
