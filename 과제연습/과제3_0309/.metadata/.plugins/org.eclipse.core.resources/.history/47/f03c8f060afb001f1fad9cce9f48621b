@@ -1,0 +1,21 @@
+package form;
+
+import javax.swing.JLabel;
+import javax.swing.JTextField;
+
+import aframe.aframe;
+
+public class a로그인 extends aframe {
+	JTextField jt[] = new JTextField[2];
+	String ln[] = "ID,PW".split(",");
+	
+	JLabel msg;
+	
+	int ck = 0;
+	
+	public a로그인() {
+		fs("로그인");
+		
+		
+	}
+}

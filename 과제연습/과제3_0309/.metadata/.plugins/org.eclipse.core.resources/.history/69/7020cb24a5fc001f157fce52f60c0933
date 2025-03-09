@@ -1,0 +1,9 @@
+package jdbc;
+
+public class vq {
+	public static int uno, urole, uscore, cno;
+	public static int move;
+	public static String uname;
+	public static String uphone;
+	public static String ubrith;
+}
