@@ -92,7 +92,7 @@ public class aframe extends JFrame implements WindowListener, MouseListener {
 	@Override
 	public void mouseClicked(MouseEvent e) {
 		// TODO Auto-generated method stub
-		warning_message("어허 그대여, 클릭하지 마시오.");
+		warning_message("그대여, 클릭하지 마시오.");
 	}
 
 

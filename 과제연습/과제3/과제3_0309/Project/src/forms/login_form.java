@@ -15,7 +15,6 @@ import jdbc.vq;
 import aframe.aframe;
 
 public class login_form extends aframe {
-	private static final long serialVersionUID = 1L;
 	JTextField jt[] = new JTextField[2];
 	String ln[] = {"ID", "PW"};
 	
