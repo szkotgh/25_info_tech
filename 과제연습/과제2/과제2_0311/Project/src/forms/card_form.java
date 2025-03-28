@@ -28,7 +28,7 @@ public class card_form extends aframe {
 		add(np = new JPanel(new FlowLayout(FlowLayout.CENTER, 15, 10)), n);
 		for (int i=0; i<jb.length; i++) {
 			np.add(jb[i] = new JButton(bn[i]));
-			jb[i].addActionListener(this);
+			jb[i].addActionListener(this); 
 		}
 		fk(jb[0], Color.RED);
 		

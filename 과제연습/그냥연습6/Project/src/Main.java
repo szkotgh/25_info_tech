@@ -1,0 +1,60 @@
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+import jdbc.db;
+
+public class Main {
+	public static void login(String login_id, String login_pw) throws SQLException {
+		ResultSet rs;
+		
+		if (login_id.equals("") || login_pw.equals("")) {
+			System.out.println("빈칸이 있습니다.");
+			return;
+        }
+        
+        if (login_id.equals("admin") && login_pw.equals("1234")) {
+        	System.out.println("관리자님 환영합니다.");
+        	return;
+        }
+        
+    	rs = db.execute("SELECT * FROM teacher where id = '" + login_id + "'");
+    	if (rs.next()) {
+    		String pw = rs.getString(4);
+    		String name = rs.getString(2);
+    		if (pw.equals(login_pw))
+    			System.out.println(name + " 선생님 환영합니다.");
+    		else
+    			System.out.println("비밀번호가 일치하지 않습니다.");
+    		return;
+    	}
+        
+    	rs = db.execute("SELECT * FROM user where id = '" + login_id + "'");
+    	if (rs.next()) {
+    		String pw = rs.getString(4);
+    		String name = rs.getString(2);
+    		if (pw.equals(login_pw))
+    			System.out.println(name + " 학생님 환영합니다.");
+    		else
+    			System.out.println("비밀번호가 일치하지 않습니다.");
+    		return;
+    	}
+    	
+    	System.out.println("존재하지 않는 회원입니다.");
+	}
+	
+    public static void main(String[] args) throws SQLException {
+        db.init();
+        
+        Scanner sc = new Scanner(System.in);
+        
+        while (true) {
+        	System.out.print("ID: ");
+        	String input_id = sc.nextLine();
+        	System.out.print("PW: ");
+        	String input_pw = sc.nextLine();
+        	
+        	login(input_id, input_pw);
+        }
+    }
+}

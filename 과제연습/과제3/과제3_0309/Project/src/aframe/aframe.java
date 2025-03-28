@@ -288,7 +288,7 @@ public class aframe extends JFrame implements ActionListener, WindowListener, Mo
 	public void windowDeactivated(WindowEvent e) {
 		// TODO Auto-generated method stub
 		
-	}
+}
 
 	@Override
 	public void actionPerformed(ActionEvent e) {

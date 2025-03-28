@@ -1,0 +1,22 @@
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import jdbc.db;
+
+public class Main {
+    public static void main(String[] args) throws SQLException {
+        db.init();
+        
+        
+        
+        String input_id = "";
+        String input_pw = "";
+        
+        ResultSet rs = db.execute("SELECT * FROM user where id = '" + input_id + "'");
+        
+        if (rs.next()) {
+        	String pw = rs.getString(4);
+        	System.out.println(pw);
+        }
+        
+    }
+}

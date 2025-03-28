@@ -1,0 +1,12 @@
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import jdbc.db;
+
+public class main {
+	public main() throws SQLException {
+		db.init();
+		ResultSet rs = db.execute("SELECT * FROM question.catalog");
+		System.out.println(rs);
+	}
+}

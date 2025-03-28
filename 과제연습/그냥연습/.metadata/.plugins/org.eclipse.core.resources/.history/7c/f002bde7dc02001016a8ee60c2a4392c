@@ -1,0 +1,23 @@
+class Product {
+	public static int price = 1000;
+}
+
+class TV extends Product {
+	
+}
+
+class PC extends Product {
+	this
+}
+
+public class main {
+    public static void main(String[] args) {
+        System.out.println(TV.price);
+        System.out.println(PC.price);
+        
+        TV.price = 2000;
+        
+        System.out.println(TV.price);
+        System.out.println(PC.price);
+    }
+}

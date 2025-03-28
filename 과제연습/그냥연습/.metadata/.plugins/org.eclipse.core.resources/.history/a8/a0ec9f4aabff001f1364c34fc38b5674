@@ -1,0 +1,17 @@
+class singleton {
+	private static singleton s = new singleton();
+	private static value = 10;
+	
+	private singleton() {
+		
+	}
+	
+	public static singleton getInstanse() {
+		return s;
+	}
+}
+
+
+public class main {
+	singleton test = singleton.getInstanse();
+}

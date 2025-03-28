@@ -171,10 +171,9 @@ public class main_form extends aframe {
                @Override
                public void mouseClicked(MouseEvent e) {
 	               if (vq.uno != 0) {
-	               vq.pno = pno;
-	               System.out.println(pno);
-	//               new c상품();
-	               dispose();
+		               vq.pno = pno;
+		               new product_form();
+		               dispose();
 	               } else {
 		               wmsg("로그인을 해주세요.");
 		               dispose();

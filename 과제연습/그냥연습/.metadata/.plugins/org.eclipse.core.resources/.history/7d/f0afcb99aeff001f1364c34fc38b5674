@@ -1,0 +1,25 @@
+class singleton {
+    private static singleton s = new singleton();
+    private static int value = 10;
+
+    private singleton() {}
+
+    public static singleton getInstanse() {
+        return s;
+    }
+
+    public static void setValue(int uvalue) {
+        value = uvalue;
+    }
+
+    public static int getValue() {
+        return value;
+    }
+}
+
+public class main {
+    public static void main(String[] args) {
+        singleton.setValue(30);
+        System.out.println(singleton.getValue());
+    }
+}

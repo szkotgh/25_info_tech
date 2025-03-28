@@ -1,0 +1,16 @@
+public class singleton {
+	private static singleton s = new singleton();
+	
+	private singleton() {
+		
+	}
+	
+	public static singleton getInstanse() {
+		return s;
+	}
+}
+
+
+public class main {
+	singleton test = new singleton();
+}
