@@ -1,0 +1,30 @@
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.FlowLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+
+import javax.swing.JComboBox;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JTable;
+import javax.swing.JTextField;
+import javax.swing.event.TableModelEvent;
+import javax.swing.event.TableModelListener;
+import javax.swing.JScrollPane;
+import javax.swing.table.DefaultTableModel;
+
+import forms.login_form;
+
+public class main {
+	public static JTextField jf;
+	public static boolean isClicked = false;
+	
+	public static JComboBox jcb;
+	
+    public static void main(String[] args) {
+        new login_form();
+    } 
+}

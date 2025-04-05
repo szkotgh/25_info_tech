@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatarailModelStoreContainer" CdmEntityContainer="DatarailEntities">
+    <EntitySetMapping Name="location">
+      <EntityTypeMapping TypeName="DatarailModel.location">
+        <MappingFragment StoreEntitySet="location">
+          <ScalarProperty Name="lno" ColumnName="lno" />
+          <ScalarProperty Name="lname" ColumnName="lname" />
+          <ScalarProperty Name="lx" ColumnName="lx" />
+          <ScalarProperty Name="ly" ColumnName="ly" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="reservation">
+      <EntityTypeMapping TypeName="DatarailModel.reservation">
+        <MappingFragment StoreEntitySet="reservation">
+          <ScalarProperty Name="rno" ColumnName="rno" />
+          <ScalarProperty Name="uno" ColumnName="uno" />
+          <ScalarProperty Name="sno" ColumnName="sno" />
+          <ScalarProperty Name="carno" ColumnName="carno" />
+          <ScalarProperty Name="seat" ColumnName="seat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="schedule">
+      <EntityTypeMapping TypeName="DatarailModel.schedule">
+        <MappingFragment StoreEntitySet="schedule">
+          <ScalarProperty Name="sno" ColumnName="sno" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="starting" ColumnName="starting" />
+          <ScalarProperty Name="destination" ColumnName="destination" />
+          <ScalarProperty Name="time" ColumnName="time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="user">
+      <EntityTypeMapping TypeName="DatarailModel.user">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="uno" ColumnName="uno" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="pw" ColumnName="pw" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="birth" ColumnName="birth" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

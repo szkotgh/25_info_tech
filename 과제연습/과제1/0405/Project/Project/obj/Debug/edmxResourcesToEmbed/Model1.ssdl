@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatarailModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="location">
+    <Key>
+      <PropertyRef Name="lno" />
+    </Key>
+    <Property Name="lno" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="lname" Type="nvarchar" MaxLength="10" />
+    <Property Name="lx" Type="int" />
+    <Property Name="ly" Type="int" />
+  </EntityType>
+  <EntityType Name="reservation">
+    <Key>
+      <PropertyRef Name="rno" />
+    </Key>
+    <Property Name="rno" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="uno" Type="int" />
+    <Property Name="sno" Type="int" />
+    <Property Name="carno" Type="int" />
+    <Property Name="seat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="schedule">
+    <Key>
+      <PropertyRef Name="sno" />
+    </Key>
+    <Property Name="sno" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="date" Type="date" />
+    <Property Name="starting" Type="int" />
+    <Property Name="destination" Type="int" />
+    <Property Name="time" Type="time" Precision="7" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="uno" />
+    </Key>
+    <Property Name="uno" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id" Type="nvarchar" MaxLength="10" />
+    <Property Name="pw" Type="nvarchar" MaxLength="20" />
+    <Property Name="name" Type="nvarchar" MaxLength="10" />
+    <Property Name="birth" Type="date" />
+    <Property Name="phone" Type="nvarchar" MaxLength="15" />
+    <Property Name="email" Type="nvarchar" MaxLength="30" />
+  </EntityType>
+  <Association Name="FK_schedule_location">
+    <End Role="location" Type="Self.location" Multiplicity="0..1" />
+    <End Role="schedule" Type="Self.schedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="location">
+        <PropertyRef Name="lno" />
+      </Principal>
+      <Dependent Role="schedule">
+        <PropertyRef Name="starting" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DatarailModelStoreContainer">
+    <EntitySet Name="location" EntityType="Self.location" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="reservation" EntityType="Self.reservation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="schedule" EntityType="Self.schedule" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="user" EntityType="Self.user" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_schedule_location" Association="Self.FK_schedule_location">
+      <End Role="location" EntitySet="location" />
+      <End Role="schedule" EntitySet="schedule" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
