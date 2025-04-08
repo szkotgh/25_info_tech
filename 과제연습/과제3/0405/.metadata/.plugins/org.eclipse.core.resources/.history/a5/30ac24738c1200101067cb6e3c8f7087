@@ -1,0 +1,10 @@
+package forms;
+
+import aframe.aframe;
+
+public class student_my_question_form extends aframe {
+	public student_my_question_form() {
+		fs("³» Áú¹®");
+		setSize(400, 400);
+	}
+}

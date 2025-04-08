@@ -20,6 +20,7 @@ namespace Project.forms
 
             this.FormClosing += (s, ev) =>
             {
+                Hide();
                 new main().Show();
             };
         }

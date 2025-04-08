@@ -11,76 +11,72 @@
       "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\ticket_run-list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\ticket_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\ticket_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\user_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\user_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\ticket_calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\ticket_calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\ticket_calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\ticket_calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\ticket_calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\ticket_calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\ticket_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\ticket_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\ticket_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\ticket_map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\src\\vq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\src\\vq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\admin_statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\admin_statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\user_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\user_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\admin_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\admin_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\admin_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\admin_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\admin_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\admin_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\user_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\user_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\user_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\user_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\admin_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\admin_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\admin_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\admin_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|c:\\users\\4070ti\\desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\project\\project\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6EA5E-AD3B-4349-ADDC-AD767427FA05}|Project\\Project.csproj|solutionrelative:project\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -100,121 +96,9 @@
               "RelativeDocumentMoniker": "Project\\forms\\ticket_run-list.cs",
               "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_run-list.cs",
               "RelativeToolTip": "Project\\forms\\ticket_run-list.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBkAAACBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:31:10.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "main.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\main.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\main.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\main.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Project\\forms\\main.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:17:14.592Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\Program.cs",
-              "RelativeDocumentMoniker": "Project\\Program.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\Program.cs",
-              "RelativeToolTip": "Project\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T03:58:03.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ticket_calender.cs",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_calender.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\ticket_calender.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_calender.cs",
-              "RelativeToolTip": "Project\\forms\\ticket_calender.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAASwCgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:17:16.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frame.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\frame.cs",
-              "RelativeDocumentMoniker": "Project\\frame.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\frame.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Project\\frame.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T03:57:50.642Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ticket_calender.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_calender.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\ticket_calender.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_calender.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Project\\forms\\ticket_calender.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:15:42.213Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ticket_map.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_map.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\ticket_map.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_map.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Project\\forms\\ticket_map.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:55:35.372Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "user_main.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_main.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\user_main.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_main.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Project\\forms\\user_main.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:49:22.436Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ticket.cs",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\ticket.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket.cs",
-              "RelativeToolTip": "Project\\forms\\ticket.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAEwDsAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:43:28.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ticket_map.cs",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_map.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\ticket_map.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_map.cs",
-              "RelativeToolTip": "Project\\forms\\ticket_map.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwDUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:56:54.662Z",
+              "WhenOpened": "2025-04-06T04:04:37.06Z",
               "EditorCaption": ""
             },
             {
@@ -226,95 +110,169 @@
               "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_run-list.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Project\\forms\\ticket_run-list.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:31:08.206Z",
+              "WhenOpened": "2025-04-06T04:04:27.82Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "user_login.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_login.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\user_login.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_login.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Project\\forms\\user_login.cs [\uB514\uC790\uC778]",
+              "DocumentIndex": 4,
+              "Title": "ticket_map.cs",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_map.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\ticket_map.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_map.cs",
+              "RelativeToolTip": "Project\\forms\\ticket_map.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:27:02.456Z",
+              "WhenOpened": "2025-04-06T04:04:24.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ticket_map.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_map.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\ticket_map.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_map.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Project\\forms\\ticket_map.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:04:23.075Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ticket_calender.cs",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_calender.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\ticket_calender.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_calender.cs",
+              "RelativeToolTip": "Project\\forms\\ticket_calender.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:04:17.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ticket_calender.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_calender.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\ticket_calender.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket_calender.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Project\\forms\\ticket_calender.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:04:15.668Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ticket.cs",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\ticket.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket.cs",
+              "RelativeToolTip": "Project\\forms\\ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:04:07.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ticket.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket.cs",
               "RelativeDocumentMoniker": "Project\\forms\\ticket.cs",
               "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\ticket.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Project\\forms\\ticket.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:05:09.293Z",
+              "WhenOpened": "2025-04-06T04:04:05.597Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "main.cs",
+              "DocumentIndex": 8,
+              "Title": "main.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\main.cs",
               "RelativeDocumentMoniker": "Project\\forms\\main.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\main.cs",
-              "RelativeToolTip": "Project\\forms\\main.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAiwIcAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\main.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Project\\forms\\main.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:17:16.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T04:04:02.999Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "user_login.cs",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_login.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\user_login.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_login.cs",
-              "RelativeToolTip": "Project\\forms\\user_login.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAUwEUAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "admin_statistics.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_statistics.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\admin_statistics.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_statistics.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Project\\forms\\admin_statistics.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:27:09.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "user_main.cs",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_main.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\user_main.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_main.cs",
-              "RelativeToolTip": "Project\\forms\\user_main.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAArwCMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:49:24.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "admin_login.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_login.cs",
-              "RelativeDocumentMoniker": "Project\\forms\\admin_login.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_login.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "Project\\forms\\admin_login.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:10:44.26Z",
+              "WhenOpened": "2025-04-06T04:03:31.173Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "vq.cs",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\src\\vq.cs",
-              "RelativeDocumentMoniker": "Project\\src\\vq.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\src\\vq.cs",
-              "RelativeToolTip": "Project\\src\\vq.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAWwC4AAAApAAAAAAAAAA==",
+              "Title": "user_login.cs",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_login.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\user_login.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_login.cs",
+              "RelativeToolTip": "Project\\forms\\user_login.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:09:25.028Z",
+              "WhenOpened": "2025-04-06T04:01:59.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "user_login.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_login.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\user_login.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_login.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Project\\forms\\user_login.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:01:58.321Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "user_main.cs",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_main.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\user_main.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_main.cs",
+              "RelativeToolTip": "Project\\forms\\user_main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:01:56.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "user_main.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_main.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\user_main.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\user_main.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Project\\forms\\user_main.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:01:55.365Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\main.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\main.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\main.cs",
+              "RelativeToolTip": "Project\\forms\\main.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAWwDkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:00:47.769Z",
               "EditorCaption": ""
             },
             {
@@ -325,23 +283,47 @@
               "RelativeDocumentMoniker": "Project\\forms\\admin_login.cs",
               "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_login.cs",
               "RelativeToolTip": "Project\\forms\\admin_login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:10:45.595Z",
+              "WhenOpened": "2025-04-06T03:58:13.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "frame.cs",
-              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\frame.cs",
-              "RelativeDocumentMoniker": "Project\\frame.cs",
-              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\frame.cs",
-              "RelativeToolTip": "Project\\frame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "admin_login.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_login.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\admin_login.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_login.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Project\\forms\\admin_login.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T03:58:58.426Z",
+              "WhenOpened": "2025-04-06T03:58:10.338Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "admin_main.cs",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_main.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\admin_main.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_main.cs",
+              "RelativeToolTip": "Project\\forms\\admin_main.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:57:44.827Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "admin_main.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_main.cs",
+              "RelativeDocumentMoniker": "Project\\forms\\admin_main.cs",
+              "ToolTip": "C:\\Users\\4070ti\\Desktop\\25_\uC815\uBCF4\uAE30\uC220\\\uACFC\uC81C\uC5F0\uC2B5\\\uACFC\uC81C1\\0405\\Project\\Project\\forms\\admin_main.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Project\\forms\\admin_main.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:57:34.357Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
         }

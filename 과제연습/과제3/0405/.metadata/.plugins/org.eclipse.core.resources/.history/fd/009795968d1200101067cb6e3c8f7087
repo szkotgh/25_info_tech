@@ -1,0 +1,19 @@
+package forms;
+
+import java.awt.event.WindowEvent;
+
+import aframe.aframe;
+
+public class admin_lanking_form extends aframe {
+	public admin_lanking_form() {
+		fs("·©Å·");
+		setSize(400, 400);
+		sh();
+	}
+	
+	@Override
+	public void windowClosing(WindowEvent e) {
+		dispose();
+		new student_main_form();
+	}
+}

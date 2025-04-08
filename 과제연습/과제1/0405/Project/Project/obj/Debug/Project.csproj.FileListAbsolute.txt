@@ -19,3 +19,6 @@ C:\Users\4070ti\Desktop\25_정보기술\과제연습\과제1\0405\Project\Projec
 C:\Users\4070ti\Desktop\25_정보기술\과제연습\과제1\0405\Project\Project\obj\Debug\Project.forms.ticket_map.resources
 C:\Users\4070ti\Desktop\25_정보기술\과제연습\과제1\0405\Project\Project\obj\Debug\Project.forms.ticket_calender.resources
 C:\Users\4070ti\Desktop\25_정보기술\과제연습\과제1\0405\Project\Project\obj\Debug\Project.forms.ticket_run_list.resources
+C:\Users\4070ti\Desktop\25_정보기술\과제연습\과제1\0405\Project\Project\obj\Debug\Project.forms.admin_login.resources
+C:\Users\4070ti\Desktop\25_정보기술\과제연습\과제1\0405\Project\Project\obj\Debug\Project.forms.admin_main.resources
+C:\Users\4070ti\Desktop\25_정보기술\과제연습\과제1\0405\Project\Project\obj\Debug\Project.forms.admin_user_info.resources

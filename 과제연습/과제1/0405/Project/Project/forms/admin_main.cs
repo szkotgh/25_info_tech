@@ -16,12 +16,12 @@ namespace Project.forms
         public admin_main()
         {
             InitializeComponent();
-        }
 
-        private void pictureBox3_Click(object sender, EventArgs e)
-        {
-            Hide();
-            new main().ShowDialog();
+            this.FormClosing += (s, e) =>
+            {
+                Hide();
+                new admin_login().ShowDialog();
+            };
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -33,6 +33,12 @@ namespace Project.forms
         private void pictureBox2_Click(object sender, EventArgs e)
         {
             vq.imsg("분석");
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            Hide();
+            new main().ShowDialog();
         }
     }
 }

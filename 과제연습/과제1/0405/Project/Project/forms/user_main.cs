@@ -17,6 +17,12 @@ namespace Project.forms
         {
             InitializeComponent();
             title.Text = vq.login_user.name + " [" + vq.age_cal((DateTime)vq.login_user.birth) + "]";
+
+            this.FormClosing += (s, e) =>
+            {
+                Hide();
+                new user_login().ShowDialog();
+            };
         }
 
         private void button1_Click(object sender, EventArgs e)

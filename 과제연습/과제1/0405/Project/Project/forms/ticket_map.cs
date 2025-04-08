@@ -36,6 +36,7 @@ namespace Project.forms
                     Location = new Point((int)loca.lx, (int)loca.ly),
                     BackColor = (vq.move == 1) ? Color.Blue : Color.Red,
                     ForeColor = Color.White,
+                    Cursor = Cursors.Hand,
                     Tag = loca.lno
                 };
 

@@ -89,6 +89,7 @@
             // 
             // textBox2
             // 
+            this.textBox2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.textBox2.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox2.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox2.Location = new System.Drawing.Point(540, 26);
@@ -96,7 +97,9 @@
             this.textBox2.ReadOnly = true;
             this.textBox2.Size = new System.Drawing.Size(177, 29);
             this.textBox2.TabIndex = 7;
+            this.textBox2.TabStop = false;
             this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox2.WordWrap = false;
             this.textBox2.Click += new System.EventHandler(this.textBox2_Click);
             // 
             // label5
@@ -111,6 +114,7 @@
             // 
             // textBox1
             // 
+            this.textBox1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.textBox1.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox1.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox1.Location = new System.Drawing.Point(177, 26);
@@ -118,7 +122,9 @@
             this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(177, 29);
             this.textBox1.TabIndex = 5;
+            this.textBox1.TabStop = false;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox1.WordWrap = false;
             this.textBox1.Click += new System.EventHandler(this.textBox1_Click);
             // 
             // groupBox2
@@ -140,6 +146,7 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pictureBox1.Image = global::Project.Properties.Resources.달력;
             this.pictureBox1.Location = new System.Drawing.Point(284, 20);
             this.pictureBox1.Name = "pictureBox1";
@@ -161,6 +168,7 @@
             // 
             // textBox5
             // 
+            this.textBox5.Cursor = System.Windows.Forms.Cursors.Default;
             this.textBox5.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox5.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox5.Location = new System.Drawing.Point(540, 73);
@@ -168,7 +176,9 @@
             this.textBox5.ReadOnly = true;
             this.textBox5.Size = new System.Drawing.Size(177, 29);
             this.textBox5.TabIndex = 11;
+            this.textBox5.TabStop = false;
             this.textBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox5.WordWrap = false;
             // 
             // label8
             // 
@@ -182,6 +192,7 @@
             // 
             // textBox4
             // 
+            this.textBox4.Cursor = System.Windows.Forms.Cursors.Default;
             this.textBox4.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox4.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox4.Location = new System.Drawing.Point(177, 73);
@@ -189,7 +200,9 @@
             this.textBox4.ReadOnly = true;
             this.textBox4.Size = new System.Drawing.Size(177, 29);
             this.textBox4.TabIndex = 9;
+            this.textBox4.TabStop = false;
             this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox4.WordWrap = false;
             // 
             // label9
             // 
@@ -203,6 +216,7 @@
             // 
             // textBox3
             // 
+            this.textBox3.Cursor = System.Windows.Forms.Cursors.Default;
             this.textBox3.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox3.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox3.Location = new System.Drawing.Point(540, 26);
@@ -210,7 +224,9 @@
             this.textBox3.ReadOnly = true;
             this.textBox3.Size = new System.Drawing.Size(177, 29);
             this.textBox3.TabIndex = 7;
+            this.textBox3.TabStop = false;
             this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox3.WordWrap = false;
             // 
             // label6
             // 
@@ -249,6 +265,7 @@
             // 
             // pictureBox2
             // 
+            this.pictureBox2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pictureBox2.Image = global::Project.Properties.Resources.좌석;
             this.pictureBox2.Location = new System.Drawing.Point(284, 20);
             this.pictureBox2.Name = "pictureBox2";
@@ -269,6 +286,7 @@
             // 
             // textBox7
             // 
+            this.textBox7.Cursor = System.Windows.Forms.Cursors.Default;
             this.textBox7.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox7.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox7.Location = new System.Drawing.Point(540, 73);
@@ -276,7 +294,9 @@
             this.textBox7.ReadOnly = true;
             this.textBox7.Size = new System.Drawing.Size(177, 29);
             this.textBox7.TabIndex = 11;
+            this.textBox7.TabStop = false;
             this.textBox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox7.WordWrap = false;
             // 
             // label10
             // 
@@ -290,6 +310,7 @@
             // 
             // textBox8
             // 
+            this.textBox8.Cursor = System.Windows.Forms.Cursors.Default;
             this.textBox8.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox8.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox8.Location = new System.Drawing.Point(177, 73);
@@ -297,7 +318,9 @@
             this.textBox8.ReadOnly = true;
             this.textBox8.Size = new System.Drawing.Size(177, 29);
             this.textBox8.TabIndex = 9;
+            this.textBox8.TabStop = false;
             this.textBox8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox8.WordWrap = false;
             // 
             // label11
             // 
@@ -321,6 +344,7 @@
             // 
             // textBox9
             // 
+            this.textBox9.Cursor = System.Windows.Forms.Cursors.Default;
             this.textBox9.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox9.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox9.Location = new System.Drawing.Point(321, 466);
@@ -328,7 +352,9 @@
             this.textBox9.ReadOnly = true;
             this.textBox9.Size = new System.Drawing.Size(177, 29);
             this.textBox9.TabIndex = 13;
+            this.textBox9.TabStop = false;
             this.textBox9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox9.WordWrap = false;
             // 
             // label12
             // 
@@ -362,6 +388,7 @@
             // 
             // textBox11
             // 
+            this.textBox11.Cursor = System.Windows.Forms.Cursors.Default;
             this.textBox11.Font = new System.Drawing.Font("맑은 고딕", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox11.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox11.Location = new System.Drawing.Point(321, 501);
@@ -369,7 +396,9 @@
             this.textBox11.ReadOnly = true;
             this.textBox11.Size = new System.Drawing.Size(177, 29);
             this.textBox11.TabIndex = 16;
+            this.textBox11.TabStop = false;
             this.textBox11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox11.WordWrap = false;
             // 
             // label16
             // 

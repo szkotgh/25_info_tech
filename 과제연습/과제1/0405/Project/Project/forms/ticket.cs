@@ -18,6 +18,12 @@ namespace Project.forms
         {
             InitializeComponent();
             dUp();
+
+            this.FormClosing += (s, e) =>
+            {
+                Hide();
+                new user_main().ShowDialog();
+            };
         }
 
         private void textBox1_Click(object sender, EventArgs e)

@@ -56,7 +56,6 @@ namespace Project.forms
         private void button3_Click(object sender, EventArgs e)
         {
             Close();
-            Application.Exit();
         }
 
         private void dUp()
