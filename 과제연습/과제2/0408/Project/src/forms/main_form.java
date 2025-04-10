@@ -33,13 +33,13 @@ public class main_form extends aframe {
    
    public main_form() {
       fs("∏ﬁ¿Œ");
-      emp(pc, 10, 10, 0, 10);
+      emp(pc, 5, 5, 0, 5);
       
-      np.add(p0 = new JPanel(new FlowLayout(0, 20, 0)));
+      np.add(p0 = new JPanel(new FlowLayout(0, 10, 0)));
       p0.add(jl = new JLabel("ClothingStore"));
       ft(jl, 1, 30);
       p0.add(jt = new JTextField());
-      sz(jt, 250, 30);
+      sz(jt, 200, 30);
       for (int i = 0; i < jb.length; i++) {
          p0.add(jb[i] = new JButton(bn[i]));
          sz(jb[i], 80, 30);

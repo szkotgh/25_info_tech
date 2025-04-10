@@ -33,9 +33,7 @@ public class main {
 					UIManager.getLookAndFeelDefaults().put(f, new ColorUIResource(Color.white));
 			db.DBS();
 			new login_form();
-			
 		} catch (Exception e) {
-			
 		}
     } 
 }

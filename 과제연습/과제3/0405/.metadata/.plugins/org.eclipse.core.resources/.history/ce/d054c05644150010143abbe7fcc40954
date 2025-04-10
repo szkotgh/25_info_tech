@@ -1,0 +1,40 @@
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.FlowLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.sql.SQLException;
+
+import javax.swing.JComboBox;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JTable;
+import javax.swing.JTextField;
+import javax.swing.UIManager;
+import javax.swing.event.TableModelEvent;
+import javax.swing.event.TableModelListener;
+import javax.swing.plaf.ColorUIResource;
+import javax.swing.JScrollPane;
+import javax.swing.table.DefaultTableModel;
+
+import forms.login_form;
+import jdbc.db;
+
+public class main {
+	public static JTextField jf;
+	public static boolean isClicked = false;
+	
+    public static void main(String[] args) throws SQLException {
+    	try {
+			for (Object f : UIManager.getLookAndFeelDefaults().keySet())
+				if (f.toString().contains("background"))
+					UIManager.getLookAndFeelDefaults().put(f, new ColorUIResource(Color.white));
+			db.DBS();
+			new login_form();
+			
+		} catch (Exception e) {
+		}
+    } 
+}
